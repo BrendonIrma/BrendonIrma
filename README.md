@@ -6,6 +6,6 @@ I'm studying business analysis and programming there. In this space, I'll publis
 
 
 ## Contacts
-[tg: @Ruslan_Kuzuyrov](https://t.me/Ruslan_Kuzuyrov)\
-[fb: ruslan.kuzyurov](https://www.facebook.com/ruslan.kuzyurov/)\
+tg: [@Ruslan_Kuzuyrov](https://t.me/Ruslan_Kuzuyrov)\
+fb: [ruslan.kuzyurov](https://www.facebook.com/ruslan.kuzyurov/)\
 e-mail: kuzuyrovruslan@gmail.com
